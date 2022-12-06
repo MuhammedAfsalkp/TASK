@@ -1,0 +1,2 @@
+Average of odd numbers  = 3980.705811
+Average of even numbers  = 719.625000
